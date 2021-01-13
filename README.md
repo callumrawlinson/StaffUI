@@ -46,3 +46,4 @@ Required: See wiki
 8. Unban command   : pocketmine.command.unban
 9. Unban Players   : pocketmine.command.unban.player
 10. Unban IP       : pocketmine.command.unban.ip
+11. Vanish         : blazinvanish.command
