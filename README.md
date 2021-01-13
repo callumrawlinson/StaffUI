@@ -36,4 +36,13 @@ Required: See wiki
 
 ![1](https://github.com/callumrawlinson/StaffTools/blob/main/Screenshotsui/0bae5d0a1e648fc6cd4001cb05b828faefe0b0fb.gif)
 
-1. Open the gui : staff.command
+1. Open the gui    :  staff.command
+2. Change Gamemode : .command.gamemode
+3. Kick Players    : .command.kick
+4. TP to Players   : .command.teleport
+5. Ban command     : .command.ban
+6. Ban Players     : .command.ban.player
+7. Ban IP          : .command.ban.ip
+8. Unban command   : .command.unban
+9. Unban Players   : .command.unban.player
+10. Unban IP       : .command.unban.ip
