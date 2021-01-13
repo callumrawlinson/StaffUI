@@ -11,3 +11,25 @@ Required: See wiki
 
 ![1](https://github.com/callumrawlinson/StaffTools/blob/main/Screenshotsui/1.PNG)
 ![1](https://github.com/callumrawlinson/StaffTools/blob/main/Screenshotsui/2.PNG)
+
+### Features
+
+1.  ✔️ Fully Customizable Staff Mode
+2.  ✔️ Inventory Saving When Entering Staff Mode
+3.  ✔️ Custom Vanish System
+4.  ✔️ Toggleable Staff Chat
+5.  ✔️ Freeze Module with GUI & File Logging (data.yml)
+6.  ✔️ Random Teleport (won't teleport to other staff)
+7.  ✔️ Chat Modules (Clearing and Muting Chat)
+8.  ✔️ Customizable Staff Join/Quit Messages
+9.  ✔️ Examine Player Inventories
+10. ✔️ Requests GUI
+11. ✔️ Reports GUI
+12. ✔️ StaffList GUI
+
+### To Do:
+
+1. ✘ Xray GUI
+2. ✘ CPS Checker
+3. ✘ AntiCaps
+4. ✘ AntiCurse
