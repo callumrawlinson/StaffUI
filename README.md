@@ -9,8 +9,16 @@ Required: See wiki
 3. [Commands](https://github.com/callumrawlinson/StaffTools/wiki/Commands/)
 4. [Perms](https://github.com/callumrawlinson/StaffTools/wiki/Perms/)
 
-![1](https://github.com/callumrawlinson/StaffTools/blob/main/Screenshotsui/1.PNG)
-![1](https://github.com/callumrawlinson/StaffTools/blob/main/Screenshotsui/2.PNG)
+---
+
+## HOW TO INSTALL
+* Step 1: Download [TempBanUI.phar](https://poggit.pmmp.io/r/51162/TempBanUI_dev-83.phar)
+* Step 2: Put it on your plugins folder
+* Step 3: Download [FormAPI.phar](http://festyy.com/wHIglq)
+* Step 4: Put it on your plugins folder
+* Step 5: Restart your server
+
+---
 
 ![1](https://github.com/callumrawlinson/StaffTools/blob/main/Screenshotsui/9cc9472d440069163bc8df3e568ce3a9c0563e6f.gif)
 
