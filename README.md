@@ -36,22 +36,21 @@ Required: See wiki
 
 ![1](https://github.com/callumrawlinson/StaffTools/blob/main/Screenshotsui/0bae5d0a1e648fc6cd4001cb05b828faefe0b0fb.gif)
 
-1. Open the gui    :  staff.command
-2. Change Gamemode : pocketmine.command.gamemode
-3. Kick Players    : pocketmine.command.kick
-4. TP to Players   : pocketmine.command.teleport
-5. Ban command     : pocketmine.command.ban
-6. Ban Players     : pocketmine.command.ban.player
-7. Ban IP          : pocketmine.command.ban.ip
-8. Unban command   : pocketmine.command.unban
-9. Unban Players   : pocketmine.command.unban.player
-10. Unban IP       : pocketmine.command.unban.ip
-11. Vanish         : blazinvanish.command
+---
 
-### TempBanUI Perms
+## Permissions
+| COMMAND | PERMISSION |
+| --- | --- |
+| Open the gui    |  staff.command |
+| Change Gamemode | pocketmine.command.gamemode |
+| Kick Players    | pocketmine.command.kick |
+| TP to Players   | pocketmine.command.teleport |
+| Ban command     | pocketmine.command.ban |
+| Ban Players     | pocketmine.command.ban.player |
+| Ban IP          | pocketmine.command.ban.ip |
+| Unban command   | pocketmine.command.unban |
+| Unban Players   | pocketmine.command.unban.player |
+| Unban IP       | pocketmine.command.unban.ip |
+| Vanish         | blazinvanish.command |
 
-| /tban | Open player list | use.tban |
-| /tban <on - off> | Turn on/off hit ban | use.tban |
-| /tban name | Ban player using name | use.tban |
-| /tcheck | Check ban list | use.tcheck |
-
+---
