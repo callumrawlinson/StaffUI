@@ -12,7 +12,7 @@ Required: See wiki
 ![1](https://github.com/callumrawlinson/StaffTools/blob/main/Screenshotsui/1.PNG)
 ![1](https://github.com/callumrawlinson/StaffTools/blob/main/Screenshotsui/2.PNG)
 
-### Features
+![1](https://github.com/callumrawlinson/StaffTools/blob/main/Screenshotsui/9cc9472d440069163bc8df3e568ce3a9c0563e6f.gif)
 
 1.  ✔️ Fully Customizable Staff Mode
 2.  ✔️ Inventory Saving When Entering Staff Mode
