@@ -47,3 +47,11 @@ Required: See wiki
 9. Unban Players   : pocketmine.command.unban.player
 10. Unban IP       : pocketmine.command.unban.ip
 11. Vanish         : blazinvanish.command
+
+### TempBanUI Perms
+
+| /tban | Open player list | use.tban |
+| /tban <on - off> | Turn on/off hit ban | use.tban |
+| /tban name | Ban player using name | use.tban |
+| /tcheck | Check ban list | use.tcheck |
+
