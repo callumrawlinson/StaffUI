@@ -52,5 +52,7 @@ Required: See wiki
 | Unban Players   | pocketmine.command.unban.player |
 | Unban IP       | pocketmine.command.unban.ip |
 | Vanish         | blazinvanish.command |
+| Tempban        | use.tban |
+| BanCheck       | use.tcheck |
 
 ---
