@@ -33,3 +33,7 @@ Required: See wiki
 2. ✘ CPS Checker (Done but needs to be added)
 3. ✘ AntiCaps (50% Done)
 4. ✘ AntiCurse (75% Done)
+
+![1](https://github.com/callumrawlinson/StaffTools/blob/main/Screenshotsui/0bae5d0a1e648fc6cd4001cb05b828faefe0b0fb.gif)
+
+1. Open the gui : staff.command
