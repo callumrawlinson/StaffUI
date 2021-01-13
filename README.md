@@ -29,7 +29,7 @@ Required: See wiki
 
 ### To Do:
 
-1. ✘ Xray GUI
-2. ✘ CPS Checker
-3. ✘ AntiCaps
-4. ✘ AntiCurse
+1. ✘ Xray GUI (Done but needs to be added)
+2. ✘ CPS Checker (Done but needs to be added)
+3. ✘ AntiCaps (50% Done)
+4. ✘ AntiCurse (75% Done)
