@@ -68,6 +68,7 @@ $this->getServer()->dispatchCommand($sender, "freeze");
                case 6:
 $this->getServer()->dispatchCommand($sender, "teleport");
                 break;          
+$this->getserver()->dispatchCommand
             }
         });
         $form->setTitle("§f§lStaffTools");
