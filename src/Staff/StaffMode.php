@@ -70,8 +70,8 @@ $this->getServer()->dispatchCommand($sender, "teleport");
                 break;          
             }
         });
-        $form->setTitle("§f§lSTAFF");
-        $form->setContent("§7StaffMode  §b@Callum");
+        $form->setTitle("§f§lStaffTools");
+        $form->setContent("§7StaffMode  §b@CallumRawlinson");
         $form->addButton("§l§eGamemode\n§r§0Select",0,"textures/ui/conduit_power_effect");
         $form->addButton("§l§bVanish\n§r§0Select",0,"textures/ui/invisibility_effect");
         $form->addButton("§l§cBan\n§r§0Select",0,"textures/ui/resistance_effect");
